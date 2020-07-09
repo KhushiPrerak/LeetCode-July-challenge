@@ -20,3 +20,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 ## Week 2: July 8th - July 14th
 
 * Day 8: [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)
+
+* Day 9: [Maximum Width of Binary Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)
