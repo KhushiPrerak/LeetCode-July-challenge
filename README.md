@@ -16,3 +16,7 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 * Day 6: [Plus One](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)
 
 * Day 7: [Island Perimeter](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)
+
+## Week 2: July 8th - July 14th
+
+* Day 8: [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)
