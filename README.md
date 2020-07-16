@@ -32,3 +32,10 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 * Day 13: [Same Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
 
 * Day 14: [Angle Between Hands of a Clock](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
+
+## Week 3: July 15th - July 21st
+
+* Day 15: [Reverse Words in a String](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
+
+* Day 16: [Pow(x,n)](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)
+
