@@ -39,3 +39,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 16: [Pow(x,n)](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)
 
+* Day 17: [Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)
+
