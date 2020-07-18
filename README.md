@@ -41,3 +41,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 17: [Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)
 
+* Day 18: [Course Schedule II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)
+
