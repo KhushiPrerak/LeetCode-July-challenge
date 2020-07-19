@@ -43,3 +43,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 18: [Course Schedule II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)
 
+* Day 19: [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
+
