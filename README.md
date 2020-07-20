@@ -45,3 +45,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 19: [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
 
+* Day 20: [Remove Linked Lists Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
+
