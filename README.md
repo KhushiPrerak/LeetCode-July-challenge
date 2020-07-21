@@ -47,3 +47,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 20: [Remove Linked Lists Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
 
+* Day 21: [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+
