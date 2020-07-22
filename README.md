@@ -49,3 +49,7 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 21: [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
 
+## Week 4: July 22nd - July 28th
+
+* Day 22: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)
+
