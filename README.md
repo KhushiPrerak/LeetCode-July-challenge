@@ -55,3 +55,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 23: [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
 
+* Day 24: [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
+
