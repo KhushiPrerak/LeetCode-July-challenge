@@ -59,3 +59,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 25: [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)
 
+* Day 26: [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)
+
