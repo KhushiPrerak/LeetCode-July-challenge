@@ -69,3 +69,5 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 29: [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/)
 
+* Day 30: [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/)
+
