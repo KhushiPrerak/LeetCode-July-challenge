@@ -71,3 +71,6 @@ The challenge consists of 31 daily problems over the month of July. A problem is
 
 * Day 30: [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/)
 
+* Day 31: [Climbing Stairs](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/)
+
+
